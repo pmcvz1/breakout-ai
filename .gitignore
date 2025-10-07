@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+*.iml
+bin/
+out/
+.vscode/
+
+# Logs
+*.log
+
+# Ficheiros gerados pelo programa
+results/*.txt
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
